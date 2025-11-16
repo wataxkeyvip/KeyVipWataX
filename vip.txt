@@ -838,3 +838,4 @@ aku_pelayaran01  --info VIP permanen
 akela_3689  --info VIP permanen
 MaTxkyy18  --info VIP permanen
 lstprnce  --info VIP permanen
+vinlar_8  --info VIP permanen
