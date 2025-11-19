@@ -887,3 +887,4 @@ jemoskena  --info VIP permanen
 Waduk26  --info VIP permanen
 elgealgeol  --info VIP permanen
 RADEN_22105  --info VIP permanen
+jukishdanakharam  --info VIP permanen
